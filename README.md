@@ -1,7 +1,7 @@
 # momone_fizzbuzz
 ## What is this?
 This perl script is The CUTEST fizzbuzz program in the world.
-Use it at terminal is confured background black.
+Please use it at terminal that confugured background black.
 
 ## Auther (Thanks)
 The design of this program was drawn by Utau Aizaki (HOUBUNSHA CO.LTD) どうして私が美術科に!?(Why did I enter the Art Course!?) 
